@@ -76,6 +76,3 @@ Product-Catalog-Analysis/
 │
 └── README.md
 
-## Author
-
-Krish Bhatia
